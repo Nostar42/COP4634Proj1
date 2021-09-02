@@ -15,3 +15,5 @@ git:
 	git add .
 	git commit -m "AutoPush"
 	git push -u origin main
+	"Nostar42"
+	"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"
